@@ -27,17 +27,7 @@ namespace nMorph.framework.orm.configuration {
 		public static string WriteExampleConfiguration() {
 			global::nMorph.framework.orm.configuration.ConfigurationData cd = new global::nMorph.framework.orm.configuration.ConfigurationData();
 			cd.set_DatabaseConnections(new global::Array<object>());
-			global::nMorph.framework.orm.configuration.DatabaseConnectionData dcd = new global::nMorph.framework.orm.configuration.DatabaseConnectionData();
-			dcd.set_DeploEnvironment(global::nMorph.framework.common.configuration.DeployEnvironmentEnum.DEVELOPMENT);
-			dcd.set_DatabaseEngine(global::nMorph.framework.orm.configuration.DatabaseEngineEnum.SQLSERVER);
-			dcd.set_DatabaseTypeAuthentication(global::nMorph.framework.orm.configuration.DatabaseTypeAuthenticationEnum.CREDENTIALS);
-			dcd.set_ConnectionString("DEV");
-			dcd.set_ServerPort("1433");
-			dcd.set_Database("SW_TodoList");
-			dcd.set_UserID("DevExternal");
-			dcd.set_Password("3jWZuMr6Z83cy2spSy3g");
-			dcd.set_ConnectionPoolSize(0);
-			cd.get_DatabaseConnections().push(dcd);
+			
 			return global::nMorph.framework.common.helpers.SerializationHelper.Serialize(cd);
 		}
 		
