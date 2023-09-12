@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>c7cc6002-ef55-49fb-86b9-97c99f8e5dca</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+    <StartupObject>nMorph.core.nest.net5.Program</StartupObject>
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.14" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="nMorph.core.db">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.core.db.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.core.logic">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.core.logic.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.core.objects">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.core.objects.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.core.service">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.core.service.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.framework.common">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.framework.common.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.framework.esb">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.framework.esb.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.framework.orm">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.framework.orm.dll</HintPath>
+    </Reference>
+    <Reference Include="nMorph.framework.svc">
+      <HintPath>..\..\..\..\service\out\csnet5linked\bin\nMorph.framework.svc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

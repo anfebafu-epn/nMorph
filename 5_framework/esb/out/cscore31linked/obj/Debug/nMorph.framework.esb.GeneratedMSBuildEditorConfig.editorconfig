@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = nMorph.framework.esb
+build_property.ProjectDir = C:\nMorph_github\nMorph\5_framework\esb\out\cscore31linked\

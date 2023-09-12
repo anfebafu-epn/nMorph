@@ -1,0 +1,52 @@
+Tomcat
+========
+admin
+admin
+http://localhost:8080
+
+Weblogic
+========
+weblogic
+Smartw0rk.
+oracleid: anfebafu
+Smartw0rk.
+http://localhost:7001/console
+
+websphere
+========
+admin
+admin
+IbmID:andres.bastidas@smartwork.com.ec
+Smartw0rk.
+https://v023:9043/ibm/console/login.do
+	
+glassfish
+================
+http://localhost:8080/
+http://localhost:4848/
+
+
+wildfly
+================
+http://localhost:8080/
+http://localhost:9990/
+admin
+Smartw0rk.
+
+	
+
+Nuevas versiones
+=================
+Para preparar nuevas versiones de Tomcat, copiar en carpeta bin el archivo setenv.bat, apuntando a la versión de JDK con la que queremos que corra. en Conf se configura los usuarios para acceso administrativo
+
+Para prepara nuevas versiones de Wildfly, en el archivo bin/jboss-cli.bat, agregar
+set JAVA_HOME=%cd%\..\..\..\..\..\6_tools\jdk-11.0.11
+
+en el archivo bin/add-user.bat, agregar
+set JAVA_HOME=%cd%\..\..\..\..\..\6_tools\jdk-11.0.11
+
+en el archivo bin/standalone.conf, agregar
+JAVA_HOME="../../../../../../6_tools/jdk-11.0.11"
+
+Para preparar nuevas versiones de Glassfish, en el archivo config/asenv.bat, agregar
+set AS_JAVA=..\..\..\..\..\6_tools\jdk-11.0.11

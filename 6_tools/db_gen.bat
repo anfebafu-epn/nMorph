@@ -1,0 +1,1 @@
+db_gen\db_gen\bin\Debug\nMorph.framework.orm.db_gen.exe "%cd%"

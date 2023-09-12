@@ -1,0 +1,17 @@
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.core.proxy.deps.json
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.core.proxy.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\ref\nMorph.core.proxy.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.core.proxy.pdb
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.framework.orm.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.framework.common.pdb
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.framework.svc.pdb
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\bin\nMorph.framework.orm.pdb
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\nMorph.core.proxy.csproj.AssemblyReference.cache
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\nMorph.core.proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\nMorph.core.proxy.csproj.CoreCompileInputs.cache
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\nMorph.core.proxy.csproj.CopyComplete
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\nMorph.core.proxy.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\ref\nMorph.core.proxy.dll
+C:\nMorph_github\nMorph\1_ui\proxy\out\csnet5linked\obj\Debug\nMorph.core.proxy.pdb

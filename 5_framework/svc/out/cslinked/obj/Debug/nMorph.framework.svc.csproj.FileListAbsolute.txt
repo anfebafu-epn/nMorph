@@ -1,0 +1,8 @@
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\bin\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\bin\nMorph.framework.svc.pdb
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\bin\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\bin\nMorph.framework.common.pdb
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\obj\Debug\nMorph.framework.svc.csproj.CoreCompileInputs.cache
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\obj\Debug\nMorph.framework.svc.csproj.CopyComplete
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\obj\Debug\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\5_framework\svc\out\cslinked\obj\Debug\nMorph.framework.svc.pdb

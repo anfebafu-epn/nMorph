@@ -1,0 +1,7 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/TodoList/nMorph/2_logic/servers/server.php\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 11 14:06:03.870070 2023] [mpm_winnt:notice] [pid 16628:tid 752] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Fri Aug 11 14:06:03.870070 2023] [mpm_winnt:notice] [pid 16628:tid 752] AH00456: Server built: Nov  3 2017 01:01:54
+[Fri Aug 11 14:06:03.870070 2023] [core:notice] [pid 16628:tid 752] AH00094: Command line: 'C:\\TodoList\\nMorph\\2_logic\\servers\\server.php/apache2/bin/httpd_usbwv8.exe -d C:/TodoList/nMorph/2_logic/servers/server.php/apache2'
+[Fri Aug 11 14:06:03.885695 2023] [mpm_winnt:notice] [pid 16628:tid 752] AH00418: Parent: Created child process 10476
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/TodoList/nMorph/2_logic/servers/server.php\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 11 14:06:04.401261 2023] [mpm_winnt:notice] [pid 10476:tid 700] AH00354: Child: Starting 64 worker threads.

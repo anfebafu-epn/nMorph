@@ -1,0 +1,15 @@
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.core.db.dll
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.core.db.pdb
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.esb.dll
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.orm.dll
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.common.pdb
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.svc.pdb
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.orm.pdb
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\bin\nMorph.framework.esb.pdb
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\obj\Debug\nMorph.core.db.csproj.AssemblyReference.cache
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\obj\Debug\nMorph.core.db.csproj.CoreCompileInputs.cache
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\obj\Debug\nMorph.core.db.csproj.CopyComplete
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\obj\Debug\nMorph.core.db.dll
+C:\nMorph_github\nMorph\3_data\db\out\cslinked\obj\Debug\nMorph.core.db.pdb

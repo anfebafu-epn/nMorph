@@ -1,0 +1,11 @@
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\bin\nMorph.framework.svc.deps.json
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\bin\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\bin\nMorph.framework.svc.pdb
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\bin\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\bin\nMorph.framework.common.pdb
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\obj\Debug\nMorph.framework.svc.csproj.AssemblyReference.cache
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\obj\Debug\nMorph.framework.svc.GeneratedMSBuildEditorConfig.editorconfig
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\obj\Debug\nMorph.framework.svc.csproj.CoreCompileInputs.cache
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\obj\Debug\nMorph.framework.svc.csproj.CopyComplete
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\obj\Debug\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\5_framework\svc\out\cscore31linked\obj\Debug\nMorph.framework.svc.pdb

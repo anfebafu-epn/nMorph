@@ -1,0 +1,84 @@
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.deps.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.runtimeconfig.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.runtimeconfig.dev.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.objects.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.service.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.common.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.esb.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.orm.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.svc.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.objects.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.service.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.common.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.esb.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.orm.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.svc.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.csproj.AssemblyReference.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.AssemblyInfoInputs.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.AssemblyInfo.cs
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.csproj.CoreCompileInputs.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\staticwebassets\nMorph.core.nest.netcore31.StaticWebAssets.Manifest.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\staticwebassets\nMorph.core.nest.netcore31.StaticWebAssets.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\scopedcss\bundle\nMorph.core.nest.netcore31.styles.css
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.RazorTargetAssemblyInfo.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.csproj.CopyComplete
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.genruntimeconfig.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.exe
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.deps.json
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.runtimeconfig.json
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.runtimeconfig.dev.json
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.db.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.logic.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.objects.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.service.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.common.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.esb.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.orm.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.svc.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.db.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.logic.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.objects.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.core.service.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.common.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.esb.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.orm.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\bin\Debug\netcoreapp3.1\nMorph.framework.svc.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.csproj.AssemblyReference.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.GeneratedMSBuildEditorConfig.editorconfig
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.AssemblyInfoInputs.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.AssemblyInfo.cs
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.csproj.CoreCompileInputs.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.MvcApplicationPartsAssemblyInfo.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\staticwebassets\nMorph.core.nest.netcore31.StaticWebAssets.Manifest.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\staticwebassets\nMorph.core.nest.netcore31.StaticWebAssets.xml
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\scopedcss\bundle\nMorph.core.nest.netcore31.styles.css
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.RazorTargetAssemblyInfo.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.csproj.CopyComplete
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\netcore31\server.net\obj\Debug\netcoreapp3.1\nMorph.core.nest.netcore31.genruntimeconfig.cache

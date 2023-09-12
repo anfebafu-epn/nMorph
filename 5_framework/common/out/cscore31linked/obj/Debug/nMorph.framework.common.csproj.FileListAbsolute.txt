@@ -1,0 +1,8 @@
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\bin\nMorph.framework.common.deps.json
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\bin\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\bin\nMorph.framework.common.pdb
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\obj\Debug\nMorph.framework.common.csproj.AssemblyReference.cache
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\obj\Debug\nMorph.framework.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\obj\Debug\nMorph.framework.common.csproj.CoreCompileInputs.cache
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\obj\Debug\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\5_framework\common\out\cscore31linked\obj\Debug\nMorph.framework.common.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="nMorph.core.integration.net4.wcf.Core" CodeBehind="Core.svc.cs" %>

@@ -1,0 +1,13 @@
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.esb.dll
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.esb.pdb
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.common.dll
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.orm.dll
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.svc.dll
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.common.pdb
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.svc.pdb
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\bin\nMorph.framework.orm.pdb
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\obj\Debug\nMorph.framework.esb.csproj.AssemblyReference.cache
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\obj\Debug\nMorph.framework.esb.csproj.CoreCompileInputs.cache
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\obj\Debug\nMorph.framework.esb.csproj.CopyComplete
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\obj\Debug\nMorph.framework.esb.dll
+C:\nMorph_github\nMorph\5_framework\esb\out\cslinked\obj\Debug\nMorph.framework.esb.pdb

@@ -1,0 +1,1908 @@
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+E:\Workspace\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\New folder (3)\MIMALL_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+E:\Test\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\Zhungo\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\Zhungo1\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\Test\ZHUNGO_CORE\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\V3\1. DEV\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Accessibility.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\CustomMarshalers.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\ISymWrapper.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Activities.Build.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Conversion.v4.0.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Engine.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Framework.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Tasks.v4.0.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.Build.Utilities.v4.0.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.CSharp.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.JScript.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.Data.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.Compatibility.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualBasic.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\Microsoft.VisualC.STLCLR.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\mscorlib.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationBuildTasks.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationCore.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Aero2.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.AeroLite.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Classic.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Luna.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\PresentationFramework.Royale.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\ReachFramework.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\sysglobl.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Core.Presentation.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.DurableInstancing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Activities.Presentation.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.Contract.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.AddIn.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.Composition.Registration.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ComponentModel.DataAnnotations.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Configuration.Install.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Core.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.DataSetExtensions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Entity.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Linq.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.OracleClient.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Client.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.Services.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Data.SqlXml.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Deployment.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Device.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Diagnostics.Tracing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.AccountManagement.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.DirectoryServices.Protocols.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Drawing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Dynamic.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Selectors.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.IdentityModel.Services.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Compression.FileSystem.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.IO.Log.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Management.Instrumentation.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Messaging.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Net.Http.WebRequest.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Numerics.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Printing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Reflection.Context.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Caching.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.DurableInstancing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Remoting.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Runtime.Serialization.Formatters.Soap.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Security.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activation.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Activities.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Channels.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Discovery.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Routing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceModel.Web.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.ServiceProcess.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Speech.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Transactions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Abstractions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.ApplicationServices.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DataVisualization.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.DynamicData.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Entity.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Extensions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Mobile.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.RegularExpressions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Routing.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Web.Services.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Controls.Ribbon.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.Design.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.DataVisualization.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Forms.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Input.Manipulations.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Windows.Presentation.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Activities.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.ComponentModel.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Workflow.Runtime.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.WorkflowServices.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xaml.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Linq.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\System.Xml.Serialization.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClient.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationClientsideProviders.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationProvider.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\UIAutomationTypes.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsBase.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\WindowsFormsIntegration.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\res\XamlBuildTask.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe.config
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.exe
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\nMorph.framework.linker.pdb
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.exe.config
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csc.rsp
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.exe.config
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\csi.rsp
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Buffers.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Memory.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Numerics.Vectors.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.exe.config
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\vbc.rsp
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.dll
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.pdb
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.pdb
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Framework.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\Newtonsoft.Json.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Buffers.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.CodeDom.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Collections.Immutable.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Memory.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Numerics.Vectors.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Reflection.Metadata.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Resources.Extensions.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Encodings.Web.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Text.Json.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\TodoList\nMorph\6_tools\linker\linker\bin\Debug\System.ValueTuple.xml
+C:\TodoList\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.AssemblyReference.cache
+C:\TodoList\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CoreCompileInputs.cache
+C:\TodoList\nMorph\6_tools\linker\linker\obj\Debug\linker.csproj.CopyComplete
+C:\TodoList\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.exe
+C:\TodoList\nMorph\6_tools\linker\linker\obj\Debug\nMorph.framework.linker.pdb

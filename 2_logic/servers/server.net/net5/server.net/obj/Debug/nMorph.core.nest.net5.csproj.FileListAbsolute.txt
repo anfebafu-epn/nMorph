@@ -1,0 +1,92 @@
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\appsettings.Development.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\appsettings.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.exe
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.deps.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.runtimeconfig.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.runtimeconfig.dev.json
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\ref\nMorph.core.nest.net5.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\System.Data.SqlClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win-arm64\native\sni.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win-x64\native\sni.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win-x86\native\sni.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.db.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.objects.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.service.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.common.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.esb.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.orm.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.svc.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.db.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.objects.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.service.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.common.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.esb.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.orm.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.svc.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.csproj.AssemblyReference.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.AssemblyInfoInputs.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.AssemblyInfo.cs
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.csproj.CoreCompileInputs.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\staticwebassets\nMorph.core.nest.net5.StaticWebAssets.Manifest.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\staticwebassets\nMorph.core.nest.net5.StaticWebAssets.xml
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\scopedcss\bundle\nMorph.core.nest.net5.styles.css
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.RazorTargetAssemblyInfo.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.csproj.CopyComplete
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\ref\nMorph.core.nest.net5.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.pdb
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.genruntimeconfig.cache
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.logic.dll
+C:\Workspace_Products\nMorph - Framework\1. DEV\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.logic.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\appsettings.Development.json
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\appsettings.json
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.exe
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.deps.json
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.runtimeconfig.json
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.runtimeconfig.dev.json
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\ref\nMorph.core.nest.net5.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.nest.net5.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\System.Data.SqlClient.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win-arm64\native\sni.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win-x64\native\sni.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win-x86\native\sni.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.db.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.logic.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.objects.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.service.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.common.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.esb.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.orm.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.svc.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.db.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.logic.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.objects.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.core.service.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.common.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.esb.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.orm.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\bin\nMorph.framework.svc.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.csproj.AssemblyReference.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.GeneratedMSBuildEditorConfig.editorconfig
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.AssemblyInfoInputs.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.AssemblyInfo.cs
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.csproj.CoreCompileInputs.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.MvcApplicationPartsAssemblyInfo.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\staticwebassets\nMorph.core.nest.net5.StaticWebAssets.Manifest.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\staticwebassets\nMorph.core.nest.net5.StaticWebAssets.xml
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\scopedcss\bundle\nMorph.core.nest.net5.styles.css
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.RazorTargetAssemblyInfo.cache
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.csproj.CopyComplete
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\ref\nMorph.core.nest.net5.dll
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.pdb
+C:\TodoList\nMorph\2_logic\servers\server.net\net5\server.net\obj\Debug\nMorph.core.nest.net5.genruntimeconfig.cache
